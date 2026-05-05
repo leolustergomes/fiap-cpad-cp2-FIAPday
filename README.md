@@ -24,9 +24,7 @@ Ao selecionar novamente o dia, os eventos cadastrados serão exibidos.
 # Requisitos
 Para executar o projeto, é necessário:
 
-Expo Go
-Node.js
-Editor de código (recomendado: VS Code)
+Expo Go,Node.js,VS Code)
 # Decisões Tecnicas
 
 O projeto foi separado em blocos para melhor organização e mais praticidade para possiveis mudanças no futuro, na pagina de login temos a pagina index que é o esqueleto da pagina, no style que é toda a cara da pagina, cores estilo, posição o theme para cores, também colocamos um botão em cima dos dias referentes a março, podendo colocar os eventos nos dia selecionado, ao clicar no dia poderá ver os eventos referentes ao próprio dia, após ter anaotado o evento.
