@@ -26,9 +26,17 @@ Para executar o projeto, é necessário:
 
 Expo Go,Node.js,VS Code)
 # Decisões Tecnicas
+O projeto foi estruturado em diferentes partes para facilitar a manutenção e futuras melhorias:
 
-O projeto foi separado em blocos para melhor organização e mais praticidade para possiveis mudanças no futuro, na pagina de login temos a pagina index que é o esqueleto da pagina, no style que é toda a cara da pagina, cores estilo, posição o theme para cores, também colocamos um botão em cima dos dias referentes a março, podendo colocar os eventos nos dia selecionado, ao clicar no dia poderá ver os eventos referentes ao próprio dia, após ter anaotado o evento.
+Index: estrutura base da página
+Style: responsável pelo design (cores, layout e posicionamento)
+Theme: configuração de cores do sistema
 
+Além disso:
+
+Foi implementado um botão nos dias do calendário (exemplo: mês de março)
+Cada dia permite o cadastro de eventos específicos
+Ao clicar em uma data, os eventos associados a ela são exibidos
 # Proximos passos
 
 Para o futuro podemos imaginar a implementação de uma API com todos os dados dos alunos, mudanças de desing, sistemas para notificações para os alunos 
