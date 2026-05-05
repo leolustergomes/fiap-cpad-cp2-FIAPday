@@ -16,7 +16,7 @@ Raphael Talarico
 Leonardo Luster Gomes
 
 # Como funciona
-O usuário realiza login utilizando seu EMAIL e SENHA, caso o usuario não possuir o login ele pode criar um utilizando email e senha o usuario deve digitar a senha duas vezes para poder confirmar a criação da conta, quando confirmado a criação da conta o usuario deve digitar o email e senha para poder entrar, casso o usuario digite a senha ou o email errado não vai ser possivel entrar no aplicativo.
+O usuário realiza login utilizando seu EMAIL e SENHA, caso o usuario não possuir o login ele pode criar um utilizando email e senha, o usuario deve digitar a senha duas vezes para poder confirmar a criação da conta, quando confirmado a criação da conta o usuario deve digitar o email e senha para poder entrar, caso o usuario digite a senha ou o email errado não vai ser possivel entrar no aplicativo.
 Após o acesso, é direcionado para a página correspondente ao mês atual
 Na agenda, é possível clicar em qualquer dia.
 O usuário pode adicionar anotações ou compromissos naquele dia específico.
