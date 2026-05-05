@@ -18,8 +18,8 @@ Leonardo Luster Gomes
 # Como funciona
 O usuário realiza login utilizando seu RM e senha
 Após o acesso, é direcionado para a página correspondente ao mês atual
-Na agenda, é possível clicar em qualquer dia
-O usuário pode adicionar anotações ou compromissos naquele dia específico
+Na agenda, é possível clicar em qualquer dia.
+O usuário pode adicionar anotações ou compromissos naquele dia específico.
 Ao selecionar novamente o dia, os eventos cadastrados serão exibidos
 # Decisões Tecnicas
 
