@@ -1,7 +1,7 @@
 # fiap-cpad-cp2-FIAPday
-Gerenciar a rotina acadêmica na FIAP pode ser um grande desafio. Entre Checkpoints (CPs), Sprints, Global Solutions (GSs) e o Challenge, a quantidade de atividades pode facilmente sobrecarregar os estudantes.
+Gerenciar a rotina acadêmica na FIAP pode ser um grande desafio constante para muitos estudantes. Entre Checkpoints (CPs), Sprints, Global Solutions (GSs) e o Challenge, a quantidade de atividades, prazos e responsabilidades pode facilmente se acumular e acabar sobrecarregando os alunos ao longo do semestre.
 
-Pensando nisso, desenvolvemos uma plataforma voltada para a organização dentro do ecossistema FIAP. A proposta é centralizar anotações, cronogramas de provas e prazos de projetos em um único ambiente, transformando uma rotina confusa em uma experiência mais clara, produtiva e organizada.
+Pensando nesse cenário e nas dificuldades enfrentadas no dia a dia, desenvolvemos uma plataforma especialmente voltada para a organização dentro do ecossistema FIAP. A proposta é centralizar anotações de aula, cronogramas de provas, prazos de projetos e demais compromissos acadêmicos em um único ambiente digital, facilitando o acesso e o controle das informações. Dessa forma, buscamos transformar uma rotina muitas vezes confusa e desorganizada em uma experiência mais clara, eficiente, produtiva e bem estruturada para o estudante.
 
 # Objetivo 
 A principal motivação do projeto foi reduzir a sobrecarga mental dos alunos. Com diversas demandas acontecendo ao mesmo tempo, é comum que o estudante tenha dificuldades para se organizar.
