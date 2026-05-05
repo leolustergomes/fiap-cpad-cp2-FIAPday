@@ -3,6 +3,14 @@ Gerenciar a rotina acadêmica na FIAP pode ser um grande desafio. Entre Checkpoi
 
 Pensando nisso, desenvolvemos uma plataforma voltada para a organização dentro do ecossistema FIAP. A proposta é centralizar anotações, cronogramas de provas e prazos de projetos em um único ambiente, transformando uma rotina confusa em uma experiência mais clara, produtiva e organizada.
 
+# Objetivo 
+A principal motivação do projeto foi reduzir a sobrecarga mental dos alunos. Com diversas demandas acontecendo ao mesmo tempo, é comum que o estudante tenha dificuldades para se organizar.
+
+Nossa solução busca oferecer:
+
+Organização
+Foco
+Praticidade
 # Integrantes
 Raphael Talarico
 Leonardo Luster Gomes
