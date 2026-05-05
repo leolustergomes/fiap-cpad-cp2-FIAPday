@@ -39,6 +39,12 @@ Cada dia permite o cadastro de eventos específicos
 Ao clicar em uma data, os eventos associados a ela são exibidos
 # Proximos passos
 
-Para o futuro podemos imaginar a implementação de uma API com todos os dados dos alunos, mudanças de desing, sistemas para notificações para os alunos 
+Para evoluir a aplicação, planejamos:
 
-Para o futuro também implantaremos um calendário completo, inclusive contendo anos bissextos e avisos prévios sobre datas importantes e feriados.
+Integração com uma API contendo dados dos alunos
+Melhorias no design da interface
+Implementação de um sistema de notificações
+Desenvolvimento de um calendário completo
+Suporte a anos bissextos
+Inclusão de feriados
+Alertas antecipados de datas importantes
