@@ -12,8 +12,8 @@ Organização
 Foco
 Praticidade
 # Integrantes
-Raphael Talarico
-Leonardo Luster Gomes
+rm565219Raphael Talarico
+rm564448Leonardo Luster Gomes
 
 # Como funciona
 O usuário realiza login utilizando seu EMAIL e SENHA, caso o usuario não possuir o login ele pode criar um utilizando seu nome completo, email e senha, o usuario deve digitar a senha duas vezes para poder confirmar a criação da conta, quando confirmado a criação da conta o usuario deve digitar o email e senha para poder entrar, caso o usuario digite a senha ou o email errado não vai ser possivel entrar no aplicativo.
